@@ -3,6 +3,6 @@
  </a>
 </div>
 <div align="center">
-  <img class="image" src="wave.svg">
+  <img src="wave.svg">
  </a>
 </div>
