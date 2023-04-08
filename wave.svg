@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 400">
+  <defs>
+    <linearGradient id="rainbow-gradient" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#ff0000" />
+      <stop offset="16.67%" stop-color="#ff7f00" />
+      <stop offset="33.33%" stop-color="#ffff00" />
+      <stop offset="50%" stop-color="#00ff00" />
+      <stop offset="66.67%" stop-color="#007fff" />
+      <stop offset="83.33%" stop-color="#0000ff" />
+      <stop offset="100%" stop-color="#7f00ff" />
+    </linearGradient>
+  </defs>
+  <path fill="none" stroke="url(#rainbow-gradient)" stroke-width="10"
+        d="M-100,200c150,0,350-100,500,0" />
+  <path fill="none" stroke="url(#rainbow-gradient)" stroke-width="10"
+        d="M400,0c150,100,350,100,500,0" />
+</svg>
