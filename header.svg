@@ -9,7 +9,7 @@
         }
 
         .text {
-          width: 16ch;
+          width: 9ch;
           animation: typing 1.5s steps(9), blink .5s step-end infinite alternate;
           white-space: nowrap;
           overflow: hidden;
@@ -34,7 +34,7 @@
       </style>
       <div class="wrapper">
         <div class="text">
-          Thanarak Leenanon
+          Thanarak Leenanon.
         </div>
       </div>
   </div>
