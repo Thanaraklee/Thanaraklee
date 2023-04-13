@@ -27,7 +27,8 @@
  
 <div align="center">
  <br>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Thanaraklee&hide_border=true&layout=compact" align="center" />
+ <br>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Thanaraklee&hide_border=true&layout=compact" align="center"  />           
 <img src="https://komarev.com/ghpvc/?username=Thanaraklee&&style=flat-square" align="center" />
 <br>
 </div>
