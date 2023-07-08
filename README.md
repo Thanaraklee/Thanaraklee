@@ -3,28 +3,29 @@
 </div>
                                             
 
-<div align="center">
- <br>
-<a href="https://linkedin.com/in/thanarak-leenanon-974aba204" target="_blank">
-<img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 10px;" />
-</a>
-<a href="https://www.facebook.com/LEE.LEEbank" target="_blank">
-<img src=https://img.shields.io/badge/facebook-%232E87FB.svg?&style=for-the-badge&logo=facebook&logoColor=white alt=facebook style="margin-bottom: 10px;" />
-</a>
-<a href="https://instagram.com/1ee_bank" target="_blank">
-<img src=https://img.shields.io/badge/instagram-%23000000.svg?&style=for-the-badge&logo=instagram&logoColor=white alt=instagram style="margin-bottom: 10px;" />
-</a>
-<a href="https://medium.com/@Thanarak.lee" target="_blank">
-<img src=https://img.shields.io/badge/medium-%23292929.svg?&style=for-the-badge&logo=medium&logoColor=white alt=medium style="margin-bottom: 10px;" />
-</a>
 
-</div>  
- 
 <div align="center">
- <br>
- <br>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Thanaraklee&hide_border=true&layout=compact" align="center"  />           
-<img src="https://komarev.com/ghpvc/?username=Thanaraklee&&style=flat-square" align="center" />
-<br>
+  <a href="https://linkedin.com/in/thanarak-leenanon-974aba204" target="_blank">
+    <img src="https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin" style="margin-bottom: 10px;">
+  </a>
+  <a href="https://www.facebook.com/LEE.LEEbank" target="_blank">
+    <img src="https://img.shields.io/badge/facebook-%232E87FB.svg?&style=for-the-badge&logo=facebook&logoColor=white" alt="facebook" style="margin-bottom: 10px;">
+  </a>
+  <a href="https://instagram.com/1ee_bank" target="_blank">
+    <img src="https://img.shields.io/badge/instagram-%23000000.svg?&style=for-the-badge&logo=instagram&logoColor=white" alt="instagram" style="margin-bottom: 10px;">
+  </a>
+  <a href="https://medium.com/@Thanarak.lee" target="_blank">
+    <img src="https://img.shields.io/badge/medium-%23292929.svg?&style=for-the-badge&logo=medium&logoColor=white" alt="medium" style="margin-bottom: 10px;">
+  </a>
 </div>
 
+<div style="display: flex; justify-content: center;">
+  <div style="margin-right: 20px;">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Thanaraklee&hide_border=true&layout=compact" align="center"/>
+  </div>
+  <div>
+    <a href="https://app.daily.dev/ThanarakLee">
+      <img src="https://api.daily.dev/devcards/728abae9b40849b5836541801f713ecf.png?r=8kw" width="250" alt="Thanarak Lee's Dev Card"/>
+    </a>
+  </div>
+</div>
