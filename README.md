@@ -10,7 +10,7 @@
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Thanaraklee&hide_border=true&layout=compact" style='width:40%;' align='center'"/>
     <a href="https://app.daily.dev/ThanarakLee" target="_blank">
     <img
-      width="300"
+      width="280"
       align="right"
       src="https://api.daily.dev/devcards/728abae9b40849b5836541801f713ecf.png?r=8kw"
       alt="Thanarak Lee's Dev Card"
