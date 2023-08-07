@@ -6,8 +6,10 @@
   
 # Can you call me "Bank" 👋                               
 <div align="left">
+ <span>I am currently studying data science and innovation and have been actively using <br> 
+  the Google Cloud Platform for data engineering projects. I am passionate about working <br>
+  with large datasets and have a strong ability to collaborate effectively in a team environment.</span>
   <div>
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Thanaraklee&hide_border=true&layout=compact" style='width:40%;' align='center'"/>
     <a href="https://app.daily.dev/ThanarakLee" target="_blank">
     <img
       width="280"
