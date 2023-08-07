@@ -6,10 +6,13 @@
   
 # Can you call me "Bank" 👋                               
 <div align="left">
- <span>I am currently studying data science and innovation and have been actively using <br> 
-  the Google Cloud Platform for data engineering projects. I am passionate about working <br>
-  with large datasets and have a strong ability to collaborate effectively in a team environment.</span>
+ <span>I am currently studying data science and innovation and have been actively using 
+  the Google Cloud Platform for data engineering projects. I am passionate about working 
+  with large datasets and have a strong ability to collaborate effectively in a team environment.
+ </span>
+
   <div>
+   <br>
     <a href="https://app.daily.dev/ThanarakLee" target="_blank">
     <img
       width="280"
