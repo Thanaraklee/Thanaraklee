@@ -1,6 +1,15 @@
+# Welcome to my GitHub!
+```python
+class Introduce:
+    def __init__(self):
+        self.name = "Thanarak Leenanon"
+        self.role = "Student at Thammasat University"
 
-```bash
- Hi there 👋
+    def say_hi(self):
+        print("Hi! Thanks for dropping by. 👋")
+
+me = Introduce()
+me.say_hi()
 ```
 
 
