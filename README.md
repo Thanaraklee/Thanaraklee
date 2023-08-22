@@ -11,9 +11,6 @@ class Introduce:
 me = Introduce()
 me.say_hi()
 ```
-
-
-  
 # Can you call me "Bank"                            
 <div align="left">
  <span>I am currently studying data science and innovation and have been actively using 
@@ -32,8 +29,8 @@ me.say_hi()
     />
     </a>
   </div>
- 
- # My Contact
+  
+# My Contact
  <br>
   <div align="center">
     <a href="https://linkedin.com/in/thanarak-leenanon-974aba204" target="_blank">
