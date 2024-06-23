@@ -11,18 +11,8 @@ class Introduce:
 me = Introduce()
 me.say_hi()
 ```
-# Can you call me "Bank"                            
-<div align="left">
- <span>I am currently studying data science and innovation and have been actively using 
-  the Google Cloud Platform for data engineering projects. I am passionate about working 
-  with large datasets and have a strong ability to collaborate effectively in a team environment.
- </span>
-
-  <div align="center">
-   <br>
-    <a href="https://app.daily.dev/thanaraklee"><img src="https://api.daily.dev/devcards/v2/dyemQH4YdjEEzFiRn2qSj.png?type=wide&r=ok6" width="652" alt="Thanarak Lee's Dev Card"/></a>
-  </div>
-</div>
-  
-
-
+# Can you call me "Bank"         
+<a href="https://app.daily.dev/thanaraklee"><img align="right" src="https://api.daily.dev/devcards/v2/dyemQH4YdjEEzFiRn2qSj.png?type=default&r=no3" width="400" alt="Thanarak Lee's Dev Card"/></a>
+I am currently studying data science and innovation and have been actively using 
+the Google Cloud Platform for data engineering projects. I am passionate about working 
+with large datasets and have a strong ability to collaborate effectively in a team environment.
