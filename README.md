@@ -18,10 +18,11 @@ me.say_hi()
   with large datasets and have a strong ability to collaborate effectively in a team environment.
  </span>
 
-  <div>
+  <div align="center">
    <br>
-    <a href="https://app.daily.dev/thanaraklee"><img src="https://api.daily.dev/devcards/v2/dyemQH4YdjEEzFiRn2qSj.png?type=wide&r=h6h" width="652" alt="Thanarak Lee's Dev Card"/></a>
+    <a href="https://app.daily.dev/thanaraklee"><img src="https://api.daily.dev/devcards/v2/dyemQH4YdjEEzFiRn2qSj.png?type=wide&r=ok6" width="652" alt="Thanarak Lee's Dev Card"/></a>
   </div>
+</div>
   
 
 
